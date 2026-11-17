@@ -1,6 +1,6 @@
 HASEENA KHATOON
 SOFTWARE DEVELOPER | FULL-STACK .NET DEVELOPER
-whatspp Number : 7080938057 , Location : Barabanki, Uttar Pradesh 225001, India | 5+ Years of Professional Experience
+Whatspp Number : 7080938057 , Location : Barabanki, Uttar Pradesh 225001, India | 5+ Years of Professional Experience
 PROFESSIONAL SUMMARY
 Software Developer with 5+ years of professional experience building web applications and database-driven business solutions. Skilled in ASP.NET Web Forms, ASP.NET MVC, C#, ADO.NET and Microsoft SQL Server, with experience in frontend development, backend programming, database integration, deployment and maintenance. Contributed to ERP, HRMS, CRM, School Management, Inventory Management and GST Billing solutions.
 TECHNICAL SKILLS
